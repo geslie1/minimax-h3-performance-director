@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 人物表演导演"
+  short_description: "将人物动机、微表情、对白与时间预算适配到 MiniMax H3 官方提示词结构"
+  default_prompt: "使用 $minimax-h3-performance-director，将我的剧情写成表演自然、时长可演的 H3 提示词，按素材选择模式并保留中文台词。"
